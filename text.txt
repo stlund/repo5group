@@ -1,2 +1,6 @@
 test
+<<<<<<< HEAD
 Vi lägger in text allt eftersom
+=======
+Adding some text.
+>>>>>>> main
