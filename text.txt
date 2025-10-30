@@ -1,5 +1,9 @@
 test
+Vi lägger in text allt eftersom
+
 Adding some text.
+
+
 
  peter test
 
@@ -7,5 +11,4 @@ Adding some text.
 1. adding some text
 2. here
 3. and here
-4. more and more..  
-5. adding a line.
+4. more and more.
