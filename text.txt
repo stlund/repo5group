@@ -1,4 +1,6 @@
 test
+Vi lägger in text allt eftersom
+
 Adding some text.
 
  peter test
@@ -6,3 +8,12 @@ Adding some text.
  jacob första linje
 
  jacob andra linje
+
+
+ peter test
+
+ Adding a list:
+1. adding some text
+2. here
+3. and here
+4. more and more.
