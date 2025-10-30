@@ -2,3 +2,9 @@ test
 Adding some text.
 
  peter test
+
+ Adding a list:
+1. adding some text
+2. here
+3. and here
+4. more and more.
